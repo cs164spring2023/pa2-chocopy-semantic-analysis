@@ -1,7 +1,7 @@
 # CS 164: Programming Assignment 2
 
-[PA2 Specification]: https://drive.google.com/open?id=1HlPMeFUFBjUVtdYCeUxf38sT6oSUKRE7
-[ChocoPy Specification]: https://drive.google.com/file/d/1mrgrUFHMdcqhBYzXHG24VcIiSrymR6wt
+[PA2 Specification]: https://drive.google.com/file/d/1BNTp3I3jYEK78zK4NSdpFuXrlB6rbcGt/view?usp=share_link
+[ChocoPy Specification]: https://drive.google.com/file/d/1AUtxf_x9NF_iVpFoyidHa2oCvJkVLvqR/view?usp=share_link
 
 Note: Users running Windows should replace the colon (`:`) with a semicolon (`;`) in the classpath argument for all command listed below.
 
@@ -60,7 +60,7 @@ for the specification of the ChocoPy language.
 
 Add the `upstream` repository remotes (you only need to do this once in your local clone):
 
-    git remote add upstream https://github.com/cs164berkeley/pa2-chocopy-semantic-analysis.git
+    git remote add upstream https://github.com/cs164spring2023/pa2-chocopy-semantic-analysis.git
 
 
 To sync with updates upstream:
